@@ -1,6 +1,4 @@
 '''
-Name: Calvin Valdez
-Assignment: Consumer Loan Program
 Description: This program calculates the time a loan will be paid off, the final payment of the loan,
 and the amount of interest overall. This program uses the amount loaned, the annual interest rate,
 and the monthly payment for the calculations. If the interest is larger than the payment, the calculator
