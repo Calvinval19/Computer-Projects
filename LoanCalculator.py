@@ -5,7 +5,6 @@ and the monthly payment for the calculations. If the interest is larger than the
 provides the minimum payment needed to pay off the loan.
 '''
 
-
 loan = 0
 interest_rate = 0
 payment = 0
